@@ -8,8 +8,6 @@
 
 [![Pandas Who Code logo](images/pandas-who-code-logo-24px.png)](https://github.com/PandasWhoCode) Maintainer at [PandasWhoCode](https://github.com/PandasWhoCode)
 
-[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewb1269)
 
 | Stats                                                                                                              | Langs                                                                                                                |
@@ -18,9 +16,17 @@
 
 [![An image of @andrewb1269hg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewb1269hg)](https://holopin.io/@andrewb1269hg)
 
+### Projects
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+
+Previous Github Username: [andrewb1269](https://github.com/andrewb1269)
+
 ### Everything Else
 
 🌳 Trail Runner
+
+💵 Personal Finance Nerd
 
 📚 Book Lover on Goodreads: [andrewb1269](https://www.goodreads.com/andrewb1269)
 

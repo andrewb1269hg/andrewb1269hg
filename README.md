@@ -20,7 +20,7 @@
 
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
 
-Previous Github Username: [andrewb1269](https://github.com/andrewb1269)
+Previous Github Account: [andrewb1269](https://github.com/andrewb1269)
 
 ### Everything Else
 

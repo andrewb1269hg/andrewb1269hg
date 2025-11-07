@@ -8,6 +8,10 @@
 
 [![Pandas Who Code logo](images/pandas-who-code-logo-24px.png)](https://github.com/PandasWhoCode) Maintainer at [PandasWhoCode](https://github.com/PandasWhoCode)
 
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewb1269)
+
 | Stats                                                                                                              | Langs                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewb1269hg&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) |

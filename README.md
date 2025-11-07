@@ -20,6 +20,10 @@
 
 [![An image of @andrewb1269hg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewb1269hg)](https://holopin.io/@andrewb1269hg)
 
+### Everything Else
+
+🌳 Trail Runner
+
 ### Connect with Me
 
 🦋 Find me on BlueSky: [@andrewb1269](https://bsky.app/profile/andrewb1269.bsky.social).

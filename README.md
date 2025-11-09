@@ -2,7 +2,7 @@
 
 ### About Me
 
-[![Hedera logo](images/hedera-logo-24px.png)](https://github.com/hashgraph) Platform Engineer at [hashgraph](https://github.com/hashgraph)
+[![Hedera logo](images/hedera-logo-24px.png)](https://github.com/hashgraph) Platform Engineer at [Hashgraph](https://www.hashgraph.com/) supporting [Hedera](https://github.com/hashgraph) network
 
 [![Hiero-Ledger logo](images/hiero-ledger-logo-24px.png)](https://github.com/hiero-ledger) Maintainer at [hiero-ledger](https://github.com/hiero-ledger)
 
@@ -30,6 +30,6 @@ Previous Github Account: [andrewb1269](https://github.com/andrewb1269)
 
 📚 Book Lover on Goodreads: [andrewb1269](https://www.goodreads.com/andrewb1269)
 
-🦋 Find me on BlueSky: [@andrewb1269](https://bsky.app/profile/andrewb1269.bsky.social)
+🦋 Find me on BlueSky: [andrewb1269](https://bsky.app/profile/andrewb1269.bsky.social)
 
 🏃 Find me on [![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/17505458)
